@@ -1,9 +1,7 @@
-.blog-post{
+.noticia-post{
     text-align: justify;
     text-align-last: center;
-    padding-left: 200px;
-    padding-right: 200px;
-    padding-top: 50px ;
+
 }
 
 .dropdown, .dropend, .dropstart, .dropup {
