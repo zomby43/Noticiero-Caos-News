@@ -1,0 +1,12 @@
+.formato_contacto{
+    width: 800px; 
+    height: 620px;
+    margin: 40px auto;
+    border-radius: 10px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    background-color: white; 
+    padding-left: 30px; 
+    padding-right: 30px;
+    border: black solid;
+}

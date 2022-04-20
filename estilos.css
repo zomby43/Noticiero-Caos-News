@@ -5,3 +5,9 @@
     padding-right: 200px;
     padding-top: 50px ;
 }
+
+.dropdown, .dropend, .dropstart, .dropup {
+    position: relative;
+}
+  
+  
